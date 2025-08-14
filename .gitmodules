@@ -1,3 +1,3 @@
 [submodule "DiffusionCLIP"]
 	path = DiffusionCLIP
-	url = git@github.com:gwang-kim/DiffusionCLIP.git
+	url = git@github.com:Min-Sheng/DiffusionCLIP.git
