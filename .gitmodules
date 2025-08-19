@@ -1,3 +1,4 @@
 [submodule "DiffusionCLIP"]
 	path = DiffusionCLIP
 	url = git@github.com:Min-Sheng/DiffusionCLIP.git
+	branch = add-traffic-sign-dataset
